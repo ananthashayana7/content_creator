@@ -1,0 +1,8 @@
+{
+  "name": "Human-First AI Shorts Creator",
+  "description": "An automated studio for generating human-like vertical YouTube shorts with natural voiceovers, AI-generated visuals, and optimized SEO metadata.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
